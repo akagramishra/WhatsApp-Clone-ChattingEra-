@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317621043246",
+    "project_id": "chatting-era",
+    "storage_bucket": "chatting-era.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317621043246:android:2c78bcbe537fa401e6dfbf",
+        "android_client_info": {
+          "package_name": "ml.techzgamecoding.chattingera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317621043246-cqmbt0upqp5r3n8avu7d3vbbm4avlutk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGmVqZUm_GvYq9G5BkJLw-o75jlY31ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317621043246-cqmbt0upqp5r3n8avu7d3vbbm4avlutk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
